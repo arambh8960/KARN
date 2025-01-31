@@ -31,17 +31,6 @@ Real-time AI processing on mobile devices.
 Integration with smart glasses (AR) for real-world applications.
 Multilingual support to bridge communication barriers.
 
-Challenges & Future Developments
-🚧 Challenges:
-
-Different sign languages exist (ASL, BSL, ISL, etc.).
-Continuous gestures (not just individual signs) are harder to recognize.
-Requires large, diverse datasets for accuracy.
-
-🚀 Future Improvements:
-Real-time AI processing on mobile devices.
-Integration with smart glasses (AR) for real-world applications.
-Multilingual support to bridge communication barriers.
 
 Use Cases:-
 ✔️ Accessibility for the Deaf & Hard of Hearing
