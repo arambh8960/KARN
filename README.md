@@ -48,3 +48,4 @@ Use Cases:-
 ✔️ Real-time translation for meetings & education
 ✔️ AI-powered sign language assistants
 
+!!REMARKS: Python folder is in zip file karn11,being a raw fileit is needed to download it before using it!
