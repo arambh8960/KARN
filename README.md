@@ -31,6 +31,12 @@ Real-time AI processing on mobile devices.
 Integration with smart glasses (AR) for real-world applications.
 Multilingual support to bridge communication barriers.
 
+Key Features of Karn:
+1.) Real-time Translation
+2.) AI-Powered Recognition
+3.) Text Output
+4.) User-Friendly Interface
+5.) OpenCV and MediaPipe Integration
 
 Use Cases:-
 ✔️ Accessibility for the Deaf & Hard of Hearing
